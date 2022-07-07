@@ -1,0 +1,12 @@
+/node_modules
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+/public_html/dist/
+/public_html/img/
+/public_html/vendor/
+/public_html/plugins/
